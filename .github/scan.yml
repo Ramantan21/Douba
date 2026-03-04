@@ -8,7 +8,7 @@ on:
         docker_image:
           description: 'The Docker image to scan'
           required: true
-          default: 'ai/gemma3n:2B-F16'
+          default: 'mcp/mongodb:latest'
 
 # env:
 #   REGISTRY: ghcr.io
